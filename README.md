@@ -1,4 +1,4 @@
-# untitled
+# Paper Note
 
 ## Project setup
 ```
